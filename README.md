@@ -6,5 +6,5 @@ Quick start:
 $ npm install
 $ npm start
 ````
-I have built basic business-card online using HTML and CSS.
+I have built basic business-card online using HTML, CSS and JavaScript.
 
